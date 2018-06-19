@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">imagenes</string>
+    <string-array name="nom">
+
+        <item>des.png</item>
+        <item>desca.jpeg</item>
+        <item>descarga.jpeg</item>
+        <item>RollingLogo.png</item>
+
+    </string-array>
+</resources>
